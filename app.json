@@ -31,6 +31,10 @@
         "TIME": {
             "description": "Time Duration For Deletation",
             "value": ""
+        },
+        "GROUPS": {
+            "description": "Groups where the userbot works",
+            "value": ""
         }
     },
     "buildpacks": [
