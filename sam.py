@@ -12,7 +12,7 @@ from info import API_HASH
 from info import SESSION
 from info import ADMINS
 from info import TIME
-
+from info import GROUPS
 #=======================================================================
 
 Sam = Client(
@@ -23,7 +23,7 @@ Sam = Client(
 
 #=======================================================================
 
-@Sam.on_message(filters.group & filters.all)
+@Sam.on_message(filters.group & filters.chat(GROUPS) & filters.all)
 def deleter(bot: Client, cmd: Message):
          if cmd.from_user.id not in ADMINS:
                   sleep(int(TIME))
