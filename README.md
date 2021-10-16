@@ -8,7 +8,7 @@ Based on Pyrogram
 ## Deploy in your VPS
 
 ```sh
-git clone https://github.com/Arun-TG/AutoDelete/tree/main
+git clone https://github.com/Arun-TG/AutoDelete
 cd AutoDelete
 pip3 install -r requirements.txt
 # <Create Variables appropriately>
