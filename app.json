@@ -29,7 +29,7 @@
             "value": ""
         },
         "TIME": {
-            "description": "Time Duration For Deletation in Seconds",
+            "description": "Time Duration For Deletion (In Seconds)",
             "value": ""
         },
         "GROUPS": {
