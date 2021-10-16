@@ -29,11 +29,11 @@
             "value": ""
         },
         "TIME": {
-            "description": "Time Duration For Deletation",
+            "description": "Time Duration For Deletation in Seconds",
             "value": ""
         },
         "GROUPS": {
-            "description": "Groups where the userbot works",
+            "description": "ID of Groups where the userbot works",
             "value": ""
         }
     },
