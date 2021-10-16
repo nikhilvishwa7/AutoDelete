@@ -11,7 +11,7 @@ Based on Pyrogram
 3. `ADMINS` : ID of Admins (Userbot will not delete Messages of Admins)
 4. `SESSION` : Generate From here [![GenerateStringName](https://img.shields.io/badge/repl.it-generateStringName-yellowgreen)](https://repl.it/@subinps/getStringName)
 5. `GROUPS` : ID of Groups where the userbot works.
-6. `TIME` : Time Duration for deletation
+6. `TIME` : Time Duration for deletion
 
 - DON'T FORGET TO TURN ON DYNOS IN HEROKU
 
