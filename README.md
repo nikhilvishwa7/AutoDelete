@@ -24,6 +24,10 @@ python3 sam.py
 5. `GROUPS` : ID of Groups where the userbot works.
 6. `TIME` : Time Duration for deletion
 
+#
+- In [Main](https://github.com/Arun-TG/AutoDelete/tree/main) Branch UserBot will delete all message of Users.
+- If you want to delete Messages Sent By Users Only Deploy [Bot-Only](https://github.com/Arun-TG/AutoDelete/tree/Bot-Only) Branch 
+
 # Credits
 - [Pyrogram](https://github.com/pyrogram/pyrogram)
 - [Abir Hasan](https://github.com/AbirHasan2005)
