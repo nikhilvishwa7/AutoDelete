@@ -1,5 +1,5 @@
 # Auto-Delete
-Simple Telegram UserBot To Delete Group Messages In Specific Time.
+Simple Telegram UserBot To Delete Group Messages After Specific Time.
 Based on Pyrogram
 
 ## Deploy on Heroku
