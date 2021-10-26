@@ -25,7 +25,7 @@ python3 sam.py
 5. `GROUPS` : ID of Groups where the userbot works.
 6. `TIME` : Time Duration for deletion
 
-###
+#
 - DEPLOY THIS WITH YOUR OWN [RISK](https://github.com/Arun-TG/AutoDelete/issues/2#issue-1036267661)
 
 #
