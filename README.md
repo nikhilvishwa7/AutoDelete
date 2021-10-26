@@ -5,6 +5,7 @@ Based on Pyrogram
 ## Deploy on Heroku
  [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 - DON'T FORGET TO TURN ON DYNOS IN HEROKU
+
 ## Deploy in your VPS
 
 ```sh
@@ -23,6 +24,8 @@ python3 sam.py
 4. `SESSION` : Generate From here [![GenerateStringName](https://img.shields.io/badge/repl.it-generateStringName-yellowgreen)](https://repl.it/@subinps/getStringName)
 5. `GROUPS` : ID of Groups where the userbot works.
 6. `TIME` : Time Duration for deletion
+
+DEPLOY THIS WITH YOUR OWN [RISK](https://github.com/Arun-TG/AutoDelete/issues/2#issue-1036267661)
 
 #
 - In [Main](https://github.com/Arun-TG/AutoDelete/tree/main) Branch UserBot will delete all message of Users & Bots.
