@@ -5,9 +5,9 @@ Based on Pyrogram
 # Easy Way
 Use [AutoDeleteV2](http://t.me/AutoDeleteV2bot)
 
-## ============================
+## ========================
 ## Railway Deploy Support 😑
-## ===========================
+## ========================
 
 ## Deploy in your VPS
 
