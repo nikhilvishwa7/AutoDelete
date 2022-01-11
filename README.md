@@ -6,7 +6,7 @@ Based on Pyrogram
 Use [AutoDeleteV2](http://t.me/AutoDeleteV2bot)
 
 ## Deploy on Heroku
- [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+ [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy) [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https%3A%2F%2Fgithub.com%2FGTBERNO%2FAutoDelete&envs=API_ID%2CAPI_HASH%2CSESSION%2CADMINS%2CGROUPS%2CTIME)
 - DON'T FORGET TO TURN ON DYNOS IN HEROKU
 
 ## Deploy in your VPS
