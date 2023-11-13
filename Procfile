@@ -1,1 +1,1 @@
-worker: python3 sam.py
+web: python3 sam.py
